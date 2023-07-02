@@ -1,8 +1,5 @@
 # grounded_sam
-
----
-title: Grounded Segment Anything
-emoji: 📚
+--
 colorFrom: purple
 colorTo: yellow
 sdk: gradio
