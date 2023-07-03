@@ -27,3 +27,10 @@ pynvml
 lama-cleaner==1.1.2
 openmim==0.1.5
 mmcv==2.0.0
+
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+gspread
+oauth2client
+gradio
